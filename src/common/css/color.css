@@ -1,0 +1,48 @@
+#app .form-warpper .list-block .sex .item-inner input.sex-button.icon-check_circle {
+    color: #fbaa23;
+}
+#app .selected-confirm .confirm,
+#app .bottom-fee-sum .bottom-box .prospectus {
+    background: #fbaa23;
+}
+#app .choose-pro .accordion-item-toggle:after {
+    border-right: 2px solid #529fff;
+    border-bottom: 2px solid #529fff;
+}
+#app .assortment .assortment-list .title,
+#app .rule .buttons-row.rule-tab .button.active,
+#app .no-prod span,
+#app .bottom-fee-sum .bottom-box .sum,
+#app .choose-pro .accordion-item-toggle,
+#app .choose-pro .lists .item-inner .icon-check_circle,
+#app .lists .check .item-inner .icon-check_circle {
+    color: #529fff
+}
+#app .rule .buttons-row.rule-tab .button.active span:after {
+    background-color: #529fff;
+}
+#app .no-prod-wrapper span:before,
+#app .no-prod span:before {
+    background: url('../../image/noneb.jpg') no-repeat center center;
+    background-size: 95px 95px;
+}
+
+#app .assortment .assortment-list .title:nth-of-type(1) {
+    background: url(../../image/ico-accident.jpg) no-repeat left;
+    background-size: 17px;
+}
+
+#app .assortment .assortment-list .title:nth-of-type(2) {
+    background: url(../../image/ico-healthy.jpg) no-repeat left;
+    background-size: 17px;
+}
+
+#app .assortment .assortment-list .title:nth-of-type(3) {
+    background: url(../../image/ico-people.jpg) no-repeat left;
+    background-size: 17px;
+}
+
+#app .assortment .assortment-list .title:nth-of-type(4) {
+    background: url(../../image/ico-money.jpg) no-repeat left;
+    background-size: 17px;
+}
